@@ -1,4 +1,4 @@
-# teamtalk
+# teamtalk android client
 
 本项目来自蘑菇街的teamtalk，开发工具换成了android studio 并将相关项目进行了整合，添加了缺少的jar包。
 
